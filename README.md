@@ -1,6 +1,6 @@
 # 💫About Me :
-🔭 I'm a software engineering student
-🌱 I’m currently learning VKU University
+🔭 I'm a software engineering student                                                                                                                                                                        
+🌱 I’m currently learning VKU University                                                                                                                                                                     
 ⚡ My favourite: football, volleyball ...
 
 ## 🌐Socials
