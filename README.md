@@ -1,7 +1,5 @@
 # 💫About Me :
 🔭 I'm a software engineering student                                                                                                                                                                        
-🌱 I’m currently learning VKU University                                                                                                                                                                     
-⚡ My favourite: football, volleyball ...
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100010321987722) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tqt_truong?fbclid=IwAR0hrfmf560rWHxDErah22eEoMRQWOfcPHjUnZyWnNJQ5DovDkLz9ScYDNo) 
